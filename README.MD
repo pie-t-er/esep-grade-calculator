@@ -2,6 +2,8 @@
 
 This library is a simple utility to calculate your grades.
 
+Instructions for installing GoLang [here](https://go.dev/doc/install)
+
 Runtime requirements:
 Golang 1.24+
 
